@@ -1,0 +1,5 @@
+# Ignore virtual environment folder
+lang_venv/
+
+# Ignore environment file
+.env
