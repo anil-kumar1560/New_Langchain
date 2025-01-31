@@ -22,3 +22,6 @@ beautifulsoup4
 python-dotenv
 sentence_transformers
 langchain_huggingface
+PyPDF2
+langchain_google_genai
+google-cloud-aiplatform>=1.38
